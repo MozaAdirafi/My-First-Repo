@@ -4,4 +4,4 @@ NPM     : 2106657292
 
 Kelas   : KI
 
-Hobi    : Ngoding
+Hobi    : tidurz
